@@ -1,6 +1,6 @@
 # Activity Letterboxd
 Contributors: jnstr
-Stable tag: 1.1
+Stable tag: 1.2
 
 A lightweight widget which uses the Letterboxd RSS feed to display your Letterboxd activity.
 
@@ -18,6 +18,10 @@ This section describes how to install the plugin and get it working.
 4. Use the Customizer
 
 ## Changelog
+
+= 1.2 =
+* added Reviews
+* merged with my reviews plugin
 
 = 1.1 =
 * Bugfix
